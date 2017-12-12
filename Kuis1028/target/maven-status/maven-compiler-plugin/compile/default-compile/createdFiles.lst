@@ -1,0 +1,9 @@
+com\ganjar\Kuis1028\service\cv_1028Service.class
+com\ganjar\Kuis1028\repo\cv_1028Repo.class
+com\ganjar\Kuis1028\entity\cv_1028.class
+com\ganjar\Kuis1028\controller\cv_1028Controller.class
+com\ganjar\Kuis1028\controller\nilai_1028Controller.class
+com\ganjar\Kuis1028\service\nilai_1028Service.class
+com\ganjar\Kuis1028\repo\nilai_1028Repo.class
+com\ganjar\Kuis1028\entity\nilai_1028.class
+com\ganjar\Kuis1028\Kuis1028Application.class
